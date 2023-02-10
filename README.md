@@ -9,4 +9,4 @@ Parts of this repository reference Microsoft products and documentation. For Mic
 
 ## Helm Charts
 
-This repository also contains Helm chart source files and tarballs for the combined DxEnterprise + SQL Server container image in Kubernetes. Helpful variables can be found in the `questions.yml` file in the source directory.
+Helm charts have been moved to the [`dh2i/helm`](https://github.com/dh2i/helm) repository. 
